@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".mainActivityi"></activity>
+        <activity android:name=".duas"></activity>
+        <activity android:name=".wudu" />
+        <activity android:name=".FajarNamaz" />
+        <activity android:name=".namazActivity" />
+        <activity android:name=".Namaz" />
+        <activity android:name=".mainActivityi" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
